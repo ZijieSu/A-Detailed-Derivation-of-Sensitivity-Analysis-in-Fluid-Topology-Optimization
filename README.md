@@ -1,0 +1,1 @@
+This manuscript provides a detailed derivation of the adjoint conditions and sensitivity analysis for fluid topology optimization based on the continuous adjoint method, with a focus on the steady-state problem of 2D incompressible fluid flow.
